@@ -1,3 +1,73 @@
 site_name: aamiranauthor
+
+nav:
+  - 'index.md'
+  - 'book.md'
+  - 'about.md'
+  - Blog:
+    - blog/index.md
+  - 'advocacy.md'
+  - 'hobbies/hobbies.md'
+
 theme:
- name: material
+  name: material
+  icon:
+    logo: fontawesome/regular/moon
+  palette:
+    scheme: aamiranauthorcolour
+  features:
+    - navigation.tabs
+  font:
+    text: Libre Franklin
+    code: PlayFair
+
+extra_css:
+  - stylesheets/extra.css 
+
+plugins:
+  - privacy
+  - search
+  - blog:
+      post_date_format: yyyy/MMM/d
+      post_url_date_format: yyyy/MMM/d
+      post_url_format: "{date}/{slug}"
+      categories_allowed:
+        - Writing
+        - Book
+        - Site Update
+        - TTRPG
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, this is absolutely not required for any functionality and is completely optional.
+  analytics:
+    provider: google
+    property: G-MHHH858QRH
+  social:
+    - icon: simple/linktree
+      link: https://linktr.ee/aamirauthor
+    - icon: simple/instagram
+      link: https://www.instagram.com/aamiranauthor/
+    - icon: simple/tiktok
+      link: https://www.tiktok.com/@aamiranauthor
+    - icon: simple/facebook
+      link: https://www.facebook.com/AamirAnAuthor
+    - icon: simple/mastodon
+      link: https://mstdn.ca/@azih
+    - icon: simple/threads
+      link: https://www.threads.net/@aamiranauthor
+    - icon: simple/bluesky
+      link: https://bsky.app/profile/aamiranauthor.bsky.social
+      
+
+
+copyright: This website by <span property="cc:attributionName">Aamir Hussain</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 &copy; 2024
+        

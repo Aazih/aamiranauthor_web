@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+---
+hide: 
+  - navigation
+  - toc
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<p style="text-align: center;">Usually on an author's website there would be a big fancy splash page of the cover of the author's latest book.</p>
+<p style="text-align: center;">The reason there isn't one here is that I haven't published a book yet!</p>
+<p style="text-align: center;">But in Fall 2025, my debut novel "Under the Full and Crescent Moon" is slated to come out.</p>
+<p style="text-align: center;">I'm on a journey, and I hope you'll come along.</p>
+<p style="text-align: center;">Because while I'm excited to be on this road. It's always better with company.</p>

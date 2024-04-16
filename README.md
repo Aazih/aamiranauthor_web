@@ -31,7 +31,7 @@ While this is a personal reference, perhaps the step by step approach might be o
 2. Choose Create a new branch option from top bar, name branch, hit confirm
 3. On Source Control Tab: Stage file via + option either next to a file or the top level Changes folder
 4. On Source Control Tab: Type Commit Message and hit Commit button
-5. On Source Control Tab: Hit Sync Changes button to 'push' to Github
+5. On Source Control Tab: Hit Sync Changes (Publish Branch?) button to 'push' to Github
 
 ### Source Control (Github)
 

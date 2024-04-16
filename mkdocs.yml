@@ -1,4 +1,4 @@
-site_name: aamiranauthor
+site_name: Aamir Hussain
 
 nav:
   - 'index.md'
@@ -11,6 +11,8 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
+  favicon: images/moon.svg
   icon:
     logo: fontawesome/regular/moon
   palette:
@@ -30,6 +32,7 @@ plugins:
   - blog:
       post_date_format: yyyy/MMM/d
       post_url_date_format: yyyy/MMM/d
+      archive_date_format: yyyy-MMM
       post_url_format: "{date}/{slug}"
       categories_allowed:
         - Writing
@@ -69,5 +72,5 @@ extra:
       
 
 
-copyright: This website by <span property="cc:attributionName">Aamir Hussain</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 &copy; 2024
+copyright: This website by <span property="cc:attributionName">Aamir Hussain</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 &copy; 2024 - <a href="#__consent"> Change cookie settings</a> - <a href=/privacy> Privacy Policy</a>
         

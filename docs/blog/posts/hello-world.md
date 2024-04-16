@@ -20,7 +20,7 @@ I've been terminally online since about 1998 but I've never had a blog before. I
 
 So what is it that I want to accomplish? Well, as I go through my journey of getting my debut novel published, I want to have some sort of a recorded trail of what happens for my own sake if nothing else.
 
-It's funny in a sad way that as I watched my kids grow there were many moments I was sure I would remember forever; photographically burned into my memory. But that's now how memories work, at least not for my scattered brain, and so they're lost.
+It's funny in a sad way that as I watched my kids grow there were many moments I was sure I would remember forever; photographically burned into my memory. But that's not how memories work, at least not for my scattered brain, and so they're lost.
 
 The only thing I remember is that I was sure I would never forget.
 

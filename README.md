@@ -31,14 +31,14 @@ While this is a personal reference, perhaps the step by step approach might be o
 2. Choose Create a new branch option from top bar, name branch, hit confirm
 3. On Source Control Tab: Stage file via + option either next to a file or the top level Changes folder
 4. On Source Control Tab: Type Commit Message and hit Commit button
-5. On Source Control Tab: Hit Sync Changes button to 'push' to Github
+5. On Source Control Tab: Hit Sync Changes (Publish Branch?) button to 'push' to Github
 
 ### Source Control (Github)
 
-## Configuration
-
-- Create a custom colour scheme utilizing extra_css
-- Potential google fonts Playfair, Libre Franklins
+1. Create pull request between new branch and main
+2. Merge pull request
+3. Confirm merge
+4. Delete branch
 
 ## Tools Used
 
@@ -56,15 +56,19 @@ While this is a personal reference, perhaps the step by step approach might be o
 
 ## TODO
 
-Add land acknowledgement to footer
-This site was built on the land of the Anishinabewaki, Haudenosaunee, Attiwonderonk, and Mississaugas of the Credit First Nation. #LandBack.
+Test popup
+Update wastedvotes.ca with github and new site links.
 
-Figure out browser tab icon
-`theme:
-  favicon: images/favicon.png`
+## ChangeLog
 
-Newsletter.
+- Fix typo in first blog
+- Update icons
+- Update title of page to my name
+- override main and add landack
+- Add pop up form for newsletter
+- Add embedded form for newsletter
 
 ## Notes
 
 - Using the p html tag to align text.
+- Using the div html tag for embedded form.

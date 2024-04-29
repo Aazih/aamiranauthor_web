@@ -1,5 +1,7 @@
 site_name: Aamir Hussain
 
+site_url: https://aamiranauthor.ca
+
 nav:
   - 'index.md'
   - 'book.md'
@@ -29,6 +31,9 @@ extra_css:
 plugins:
   - privacy
   - search
+  #- social:
+      #cards_layout_options: 
+      #  font_family: Roboto
   - blog:
       post_date_format: yyyy/MMM/d
       post_url_date_format: yyyy/MMM/d
@@ -38,6 +43,7 @@ plugins:
         - Writing
         - Book
         - Site Update
+        - Advocacy
         - TTRPG
 
 markdown_extensions:

@@ -1,5 +1,12 @@
 {% extends "base.html" %}
 
+{% block tabs %}
+<!-- NOTE: Overridden tabs block  -->
+  {{ super() }}
+  <div class = "pal-banner"></div>
+ 
+{% endblock %}
+
 {% block scripts %}
   <!-- NOTE: Overridden scripts block  -->
   {{ super() }}

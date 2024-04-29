@@ -11,6 +11,12 @@
 .md-header {
   font-family: "PlayFair";
 }
+.pal-banner{
+  background-image: url("../images/scarf-7156048_1280-rotated-transparent-cropped.svg");
+  background-size: contain;
+  width: 100%;
+  height: 10vh;
+}
 
 .md-header__button.md-logo {
   margin-top: 0;

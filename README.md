@@ -20,6 +20,13 @@ While this is a personal reference, perhaps the step by step approach might be o
 8. Within python virtual environment: Create new mkdocs site `mkdocs new .`
 9. Update mkdocs.yml: add material theme `theme:  name: material` (two separate lines)
 
+## Social Card Steps
+
+1. Install [Msys2](https://www.msys2.org/)
+2. Within Msys2 run `pacman -S mingw-w64-x86_64-gtk4`
+3. Add to Windows PATH `C:\msys64\mingw64\bin\`
+4. Within python virtual environment `pip install "mkdocs-material[imaging]"`
+
 ## Ongoing
 
 - From within python virtual environment Run mkdocs webserver locally to view site as is `mkdocs serve`

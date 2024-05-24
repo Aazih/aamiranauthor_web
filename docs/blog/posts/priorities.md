@@ -1,42 +1,29 @@
 ---
-date: 2024-04-25
+date: 2024-05-24
+description: Blog - Thoughts about priorities, focus, and being overwhelmed
 categories:
   - Site Update
-  - Advocacy
+  - Writing
 ---
 
-# What do I even focus on?
+# Editing and Social Cards
 
-My life has been very busy lately and I am feeling a little  overwhelmed. I am just grateful that at least a little bit of the chaos I'm navigating is caused by what *I* want to achieve and that I am able to direct some of my efforts towards those ends. It is a privilege that not everyone has and I try to be mindful of that.
+It's been almost a month since my last blog entry. The main reason for that is that I am deep into editing the novel and I have a very very tight deadline for that.
 
-But still, because of all the things I need to get done, I need to prioritize. And with that comes the constant sense that maybe I'm focusing on the wrong things.
+And I have to get back to it so I think this will be a short entry!
 
 <!-- more -->
 
-For example, should I be spending time writing this blog post? Is this effort that would be better directed elsewhere? I don't know. Does my desire to record what is happening as it is happening important enough to push back some of the other things I need to be taking care of? Is anyone even reading this besides me?
+One thing that I'm grateful for is that I enjoy feedback on my work. Talking with my beta readers about the novel has been one of the absolute highlights of the writing process so far. I am so grateful for their encouragement and their positive words really sustained me as I polished the manuscript and then went through the process of finding a publisher... which is a process that involves a **lot** of rejection.
 
-A part of the problem is that I am not in full control of myself. I get ideas, and if these are ideas that I can possibly execute then I feel a nervous energy that does not recede until it is done. This blog post is such an idea, my novel was that kind of idea, this whole website and the ways I want to enhance it are those kinds of ideas.
+Getting feedback from a professional editor is different. It's great! But, being perfectly honest, there is also pain involved.
 
-Which brings me to the one idea for the website that I was able to execute. The kuffiyeh pattern that is now a part of the top 'banner' of the site. I am by no means an artist and I am also a very poor web designer and to accomplish this took me hours of effort, a lot of reaching into my bag of tech tricks, and learning a whole bunch more besides (Does anyone want a blog post of what I've learned about svg and css?). None of it would be possible without the work of a whole bunch of other people whose tools I used, whose expertise I read on sites like stack overflow, and whose work I remixed.
+Which is a good sign that my editor has done exactly what they were supposed to do. I'm not so egotistical to believe that the draft of the book I worked on solo is so amazing that it could not be improved.  Having a second experienced opinion point out the weaker parts is necessary then, even though leaving words I am proud of having written on the cutting room floor is harsh.
 
-Was this a good use of my time? I don't know. It many ways it might even be counterproductive.
+I truly believe the end result is going to be a better book and that's all that matters.
 
-But priority isn't just about time management. It's also about ideals.
+The other thing I've completed is the final feature of the website that I've enabled and that's social cards. It's not visible on the site itself but now when I send links out to people on social media, it should look **much** prettier as all 'modern' platforms try and find preview images. It took a lot of technical experimentation to get working.
 
-One of the things that I struggle with as I continue on this journey is the fact that my novel, while it has a lot of very strong opinions about a lot of things, is also a work of escapism. Whoever reads it, in fact anyone who is reading this blog post, is, by my design, not engaging with the very real problems that are going on in the world today as they do so.
+Perfection comes from iteration though.  And in that websites and novels aren't any different. I'm doing that with the site. Now it's time to get back to doing it with the novel!
 
-That is, to me, a problem. It's not a *major* problem, but it is a problem nonetheless.
-
-And so my solution, to balance my desire to write words that entertain, with my desire to not detract from the more important things in the world, is to display one symbol of them throughout. So that even though they might not at the front of the mind of whoever is reading these words... at least they will remain in their consciousness.
-
-Will the pattern, to me a symbol of resilience in the face of oppression and tyranny, cause some potential supporters to react with disgust, close the website and dismiss me and anything I do? Will I lose readers and sales because of it?
-
-Maybe. The future is not for me to see. There is a reason that my faith tells me to, in the end, leave my trust in the hands of the Almighty.
-
-But one of the secrets of life I have learned is that we cannot take care of *all* of our priorities.
-
-And the desire to be all things to all people, to be liked by everyone, to sell sneakers even to Republicans, is one that I am choosing to put closer to the bottom of my own personal list of priorities.
-
-It is what it is. And in the words that we have heard from Palestinians, time and again... is that God is Sufficient for me, and He is the best disposer of Affairs.
-
-And to sign off, please keep praying for an end to the violence engulfing our world, and pushing for a Free Palestine, online, offline, everywhere that you can.
+Please keep praying for an end to the violence engulfing our world, and pushing for a Free Palestine, online, offline, everywhere that you can.

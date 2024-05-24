@@ -1,5 +1,6 @@
 ---
 Title: Advocacy
+description: The social justice work important to me
 hide: 
   - navigation
   - toc

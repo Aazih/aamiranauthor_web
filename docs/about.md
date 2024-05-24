@@ -1,5 +1,6 @@
 ---
 title: About
+description: A little bit about the author
 hide: 
   - navigation
   - toc

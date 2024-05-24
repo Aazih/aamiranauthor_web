@@ -1,5 +1,6 @@
 ---
 date: 2024-04-16
+description: Blog - Newsletter Launch
 categories:
   - Site Update
 ---

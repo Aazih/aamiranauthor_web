@@ -1,5 +1,6 @@
 ---
 title: Hobbies
+description: Other interests
 hide: 
   - navigation
   - toc

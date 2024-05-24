@@ -1,4 +1,5 @@
 site_name: Aamir Hussain
+site_description: Aamir Hussain's personal author page
 
 site_url: https://aamiranauthor.ca
 
@@ -23,7 +24,7 @@ theme:
     - navigation.tabs
   font:
     text: Libre Franklin
-    code: PlayFair
+    code: Playfair
 
 extra_css:
   - stylesheets/extra.css 
@@ -31,13 +32,17 @@ extra_css:
 plugins:
   - privacy
   - search
-  #- social:
-      #cards_layout_options: 
-      #  font_family: Roboto
+  - social:
+      cards_layout_options: 
+        background_color: "#4d2e00"
+        font_family: Playfair
+       
+
   - blog:
       post_date_format: yyyy/MMM/d
       post_url_date_format: yyyy/MMM/d
       archive_date_format: yyyy-MMM
+      archive_url_date_format: yyyy/MMM
       post_url_format: "{date}/{slug}"
       categories_allowed:
         - Writing
@@ -48,6 +53,7 @@ plugins:
 
 markdown_extensions:
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

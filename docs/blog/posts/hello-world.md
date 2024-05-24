@@ -1,5 +1,6 @@
 ---
 date: 2024-04-02
+description: Blog - First Blog Post and Blog Purpose
 categories:
   - Site Update
 ---

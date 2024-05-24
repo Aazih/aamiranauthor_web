@@ -1,5 +1,6 @@
 ---
 title: Book
+description: About the upcoming novel
 hide: 
   - navigation
   - toc

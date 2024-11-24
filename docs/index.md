@@ -3,11 +3,21 @@ hide:
   - navigation
   - toc
 ---
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
 
-<p style="text-align: center;">Usually on an author's website there would be a big fancy splash page of the cover of the author's latest book.</p>
-<p style="text-align: center;">The reason there isn't one here is that I haven't published a book yet!</p>
-<p style="text-align: center;">But in Fall 2025, my debut novel "Under the Full and Crescent Moon" is slated to come out.</p>
-<p style="text-align: center;">I'm on a journey, and I hope you'll come along.</p>
-<p style="text-align: center;">Because while I'm excited to be on this road. It's always better with company.</p>
+<figure markdown="span">
+  ![Coming Soon Book Cover](../images/ComingSoonLaunch.png){ width="300" }
+  <figcaption>Book Cover Reveal Soon!</figcaption>
+</figure>
+
+<p style="text-align: center;">My debut novel is coming September 2025 from <a href=https://www.dundurn.com>Dundurn Press</a></p>
+<p style="text-align: center;">It's the story of a young woman coming of age while defending her city from zealots.</p>
+<p style="text-align: center;">A city of the Islamic Golden Age that is Muslim... and a matriarchy.</p>
+<p style="text-align: center;">And the weapons she wields are the Sharia and her fatwas.</p>
 
 <div class="ml-embedded" data-form="afZeiH"></div>

@@ -1,6 +1,6 @@
 ---
 date: 2024-11-23
-description: Blog - The idea of a Muslim Matriarchy
+description: Blog - The Idea of a Muslim Matriarchy
 categories:
   - Writing
   - Book
@@ -8,13 +8,13 @@ categories:
 
 # Let's talk about the first step
 
-All writing that comes from a human being (and what a weird world we live in that that needs to be qualified) comes from an idea. 
+All writing that comes from a human being (and what a weird world we live in that that needs to be qualified) comes from an idea.
 
 And here I want to speak about where I think the idea of my novel came from, now only ten months away from publication. I cannot do better than that as, in the end, ideas are mysterious things.
 
 The core idea of my novel is the setting of Medina'tul-Agham, which is a medieval city that is not only an Islamic society, but a matriarchal one as well.
 
-As far as I can tell, that core idea came from the question. "Can the law of the faith that I am a part of... Sharia... explain the faith of the family that I grew up in?" 
+As far as I can tell, that core idea came from the question. "Can the law of the faith that I am a part of... Sharia... explain the faith of the family that I grew up in?"
 
 <!-- more -->
 
@@ -32,11 +32,11 @@ There is also a very faint memory that has stuck with me... one of my mother spe
 
 All of us have these kinds of memories, and these kinds of experiences, both positive and negative.
 
-A negative experience that I believe made this question very urgent for me was the rise of Islamophobia in the aftermath of 9/11. 
+A negative experience that I believe made this question very urgent for me was the rise of Islamophobia in the aftermath of 9/11.
 
-The hostility came not only from war mongering conservatives and proselytizing Christians but also from feminists, and from liberal sections of society that increasingly adopted the arguments of the New Atheist Movement that, while  it was suspicious of all faith, focused it's ire on Islam and Muslims. It felt like my community was under seige from all directions.
+The hostility came not only from war mongering conservatives and proselytizing Christians but also from feminists, and from liberal sections of society that increasingly adopted the arguments of the New Atheist Movement that, while  it was suspicious of all faith, focused it's ire on Islam and Muslims. It felt like my community was under siege from all directions.
 
-Any concept that seemed Islamic, any word that seemed Arabic was treated with suspicion.  Parts of my faith that I had no need to even think about, such as *Sharia* and *fatwas* and *jihad*, were not only being interrogated but used as proof that Islam, and the Muslims who believed in it such as me, were somehow defective. The idea that for whatever reason Islam was 'incompatible' with the West settled into the realm of common sense ideas that did not even warrant being thought about. 
+Any concept that seemed Islamic, any word that seemed Arabic was treated with suspicion.  Parts of my faith that I had no need to even think about, such as *Sharia* and *fatwas* and *jihad*, were not only being interrogated but used as proof that Islam, and the Muslims who believed in it such as me, were somehow defective. The idea that for whatever reason Islam was 'incompatible' with the West settled into the realm of common sense ideas that did not even warrant being thought about.
 
 While I did not realize it at the time, the tension that I felt as all of this rhetoric was being thrown about was me feeling unsafe in Canada, a place that I thought of as my home.
 

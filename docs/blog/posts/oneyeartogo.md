@@ -33,7 +33,7 @@ The other thing, other than the usual work and family commitments that all of us
 
 I only have one hobby, that being playing a tabletop roleplaying game named Pathfinder, which is very much like Dungeons & Dragons. I am deep enough in the hobby that I consider myself to be a part of that game's fan community. But being in the space has felt deeply uncomfortable, if not horrifying, as all the spaces dedicated to the community resolutely ignore the genocide being perpetrated on the Palestinian people by the Israeli state. And so I took the step of doing something about it by writing an online letter asking the company who made the game and organizing people in the community to sign it.
 
-[You can check out the letter here](https://www.rascal.news/paizo-fans-call-on-paizo-and-united-paizo-workers-to-speak-for-justice-for-the-palestinian-people/) 
+[You can check out the letter here](https://www.rascal.news/paizo-fans-call-on-paizo-and-united-paizo-workers-to-speak-for-justice-for-the-palestinian-people/)
 
 The company has, not very surprisingly, ignored this, and it may very well lead me to stepping back from being an active member of the hobby. But in the meanwhile it has led me to think about how we justify violence in our media (as violence is justified in the games we play) and how that can help explain how the unfathomable violence against Palestinians is justified.
 

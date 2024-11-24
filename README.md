@@ -49,6 +49,12 @@ While this is a personal reference, perhaps the step by step approach might be o
 3. Confirm merge
 4. Delete branch
 
+## Upload
+
+1. WinSCP login to ftp site
+2. Have root directory as local directory and site root as remote directory
+3. Use Synchronize option from toolbar, Direction Remote, Mode Synchronize files
+
 ## Tools Used
 
 | Tool | Comment |

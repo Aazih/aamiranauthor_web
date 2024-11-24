@@ -40,6 +40,6 @@ As I worked on updating the site, I realized I had to rewrite portions of it to 
 
 In other news, my other writing project, a tabletop roleplaying game supplement, is also coming to a conclusion, it's about 40k words of extremely nerdy writing that I went through and edited the almost complete pdf of. It's odd to be be able to indulge in my hobbies at a time where there's so much else going on, but it's a pleasure to be overwhelmed with projects of my own choosing and to be able to complete my responsibilities to them in a timely manner.
 
-I hope the next month will be slower than this one, but how November turns out isn't up to me, it's up to God and I can only trust that he knows what's best for all of us. 
+I hope the next month will be slower than this one, but how November turns out isn't up to me, it's up to God and I can only trust that he knows what's best for all of us.
 
 Until next time!

@@ -1,5 +1,7 @@
 # aamiranauthor_web
 
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+
 ## Purpose
 
 The purpose of this project is to create a Material for Mkdocs website, not as a documentation portal, but for my personal website as an author.
@@ -58,24 +60,10 @@ While this is a personal reference, perhaps the step by step approach might be o
 | Material for Mkdocs | Extensive theme for Mkdocs |
 | markdownlint VS Code extension | Linter for Markdown |
 | Spell Right VS Code extension | Spellchecker |
+| WinSCP | FTP client |
 | ASUS laptop | Hardware |
 | Windows 11 | OS |
 
 ## TODO
 
-Test popup
-Update wastedvotes.ca with github and new site links.
-
-## ChangeLog
-
-- Fix typo in first blog
-- Update icons
-- Update title of page to my name
-- override main and add landack
-- Add pop up form for newsletter
-- Add embedded form for newsletter
-
-## Notes
-
-- Using the p html tag to align text.
-- Using the div html tag for embedded form.
+Future plan: Local linktree

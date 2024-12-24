@@ -53,7 +53,7 @@ While this is a personal reference, perhaps the step by step approach might be o
 
 1. WinSCP login to ftp site
 2. Have root directory as local directory and site root as remote directory
-3. Use Synchronize option from toolbar, Direction Remote, Mode Synchronize files
+3. Upload entire site (Cannot use sync options as it uses too many connections and timesout the webserver)
 
 ## Tools Used
 

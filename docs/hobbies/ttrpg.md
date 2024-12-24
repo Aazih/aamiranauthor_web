@@ -9,9 +9,33 @@ hide:
 
 I started playing ttrpgs with Pathfinder First Edition in 2014, about five years later the second edition of the game was released and, I really really love both playing and GMing it.
 
-Enough that I have created YouTube videos providing commentary on the rules, creatures for the game, and a massive supplement for character creation that I call the 'OriginPath' system that should be out very soon thanks to a partnership with the excellent [Eldritch Osiris Games](https://www.eldritchosirisgames.com/).
+Enough that I have created YouTube videos providing commentary on the rules, creatures for the game, and a massive supplement for character creation that I call the 'OriginPath' system that IS NOW AVAILABLE FOR PURCHASE thanks to a partnership with the excellent [Eldritch Osiris Games](https://www.eldritchosirisgames.com/).
 
 ### OriginPath
+
+Why wait till you've made a character to start playing PF2e when with OriginPath, you can play ***as*** you're making a character. OriginPath is a supplement that turns character creation in PF2e into a whole minigame on its own that can be used as a tutorial to learn the game and a guide to the character sheet for new players, and as a tool to enrich character backstories for GMs and Players of all skill levels!
+
+This nearly 80 page supplement not only contains all the easy to follow rules of OriginPath but also mini gameplay segments for almost every first level character option from the Pathfinder 2nd Edition Player Core Rule book to play with the new powers of your characters right as you choose them. It can be used as a solo experience or by a GM looking to enhance character creation for their players right at session zero.
+
+All author proceeds will go to Palestine relief charities.
+
+Store Links:
+
+[Origin Path at Itch.io](https://eldritch-osiris-games.itch.io/origin-path)
+
+[Origin Path at DriveThruRpg](https://www.drivethrurpg.com/en/product/505890/origin-path?affiliate_id=1799788)
+
+<figure markdown="span">
+  ![OriginPath teaser image](../images/OriginPath_cover.png){ width="300" }
+  <figcaption>Origin Path Cover</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![OriginPath teaser image](../images/OriginPath_samplePage.png){ width="300" }
+  <figcaption>Teaser for Rogue Class</figcaption>
+</figure>
+
+#### Thoughts on the system
 
 Pathfinder Second Edition has a character creation system that has a *lot* of options. Which is great, but also can be overwhelming.
 
@@ -22,16 +46,6 @@ As soon as I heard this, what came to mind immediately for me was that his trace
 It was a *lot* of work and then I was kind of stumped on what to even do with it. Luckily one of the first people I reached out to was James from Eldritch Osiris Games who are one of the premier creators of third party content for Pathfinder Second Edition, and I've partnered with them to bring it out as a pdf!
 
 This was really a labour of love. The only way I was able to get the idea out of my head was to get it onto a page, and I am just really grateful that it can come out into the world in a way that others might find helpful!
-
-Watch this space for more release details!
-
-Here's a teaser image:
-<figure markdown="span">
-  ![OriginPath teaser image](../images/op_eog_teaser.png){ width="300" }
-  <figcaption>Teaser for Dwarf Heritage</figcaption>
-</figure>
-
-
 
 ### Why'd you do that pf2e?
 

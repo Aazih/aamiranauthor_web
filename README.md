@@ -53,7 +53,7 @@ While this is a personal reference, perhaps the step by step approach might be o
 
 1. WinSCP login to ftp site
 2. Have root directory as local directory and site root as remote directory
-3. Upload entire site (Cannot use sync options as it uses too many connections and timesout the webserver)
+3. Upload entire site (Cannot use sync options as it uses too many connections and times out the webserver)
 
 ## Tools Used
 
@@ -71,5 +71,8 @@ While this is a personal reference, perhaps the step by step approach might be o
 | Windows 11 | OS |
 
 ## TODO
+
+Soon: Create Book theme as 'dark theme' including [This Css sample](https://codepen.io/Ibrahim-Abdulhameed/pen/oNJMEGV) starry night effect. Don't think I need a moon or crescent moon side effect since the book cover is enough of that.
+ Take darkest blue and full moon from colour for the two main theme colours
 
 Future plan: Local linktree

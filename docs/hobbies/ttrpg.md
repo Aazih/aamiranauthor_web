@@ -35,21 +35,20 @@ Store Links:
   <figcaption>Teaser for Rogue Class</figcaption>
 </figure>
 
-#### Thoughts on the system
-
-Pathfinder Second Edition has a character creation system that has a *lot* of options. Which is great, but also can be overwhelming.
-
-But what the character creation system also does is create characters step by step in what Paizo calls the 'ABCs' of character creation. Where you first pick the Ancestry of a character, then the Background of what they were doing before they become heroes, and finally the Class which is where they get most of their amazing abilities from.
-
-As soon as I heard this, what came to mind immediately for me was that his traces the life path of a character almost perfectly. And then from there I thought... why not pause at each one of those steps and engage with the abilities that come with them. And from that thought came OriginPath where I have written rules on how to do this and... kind of had to engage with almost every first level option that the game provides to determine how best to explain each one.
-
-It was a *lot* of work and then I was kind of stumped on what to even do with it. Luckily one of the first people I reached out to was James from Eldritch Osiris Games who are one of the premier creators of third party content for Pathfinder Second Edition, and I've partnered with them to bring it out as a pdf!
-
-This was really a labour of love. The only way I was able to get the idea out of my head was to get it onto a page, and I am just really grateful that it can come out into the world in a way that others might find helpful!
+More information at the [Main Origin Path page](pf2eoriginpath.md)
 
 ### Why'd you do that pf2e?
 
 [A YouTube channel with commentary and rules on the game](https://www.youtube.com/@wydtpf2e612). My hope is I'll be able to get through the Player Core Rulebook at some point Inshallah, but God may have other plans.
+
+### Auto calculating pdf sheet
+
+One of the features of the OriginPath system I wrote is going through PF2e character creation step by step. A really ideal way to see this in operation is to see an auto calculating sheet populate some of the tedious parts of filling out the sheet and demonstrate exactly what the fun consequences are of character creation choices.
+
+Unfortunately auto calculating pdfs have gone out of style in favour of full blown character creation apps such as the excellent [Pathbuilder 2e](https://pathbuilder2e.com/)
+
+So I took a form fillable pdf created by [CaptainKohog on Reddit](https://reddit.com/u/CaptainKohog) and got a free trial of Adobe Acrobat in order to put in form calculations.
+You can find it [here](https://drive.google.com/file/d/1qAED-OD1fCT7gRhQlH5yD9hMlTHUQMk0/view?usp=sharing)
 
 ### Monsters
 

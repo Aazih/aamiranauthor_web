@@ -11,8 +11,8 @@ hide:
 </style>
 
 <figure markdown="span">
-  ![Coming Soon Book Cover](../images/ComingSoonLaunch.png){ width="300" }
-  <figcaption>Book Cover Reveal Soon!</figcaption>
+  ![Book Cover](../images/utfacm_cover.jpg){ width="300" }
+  <figcaption>Cover of "Under The Full And Crescent Moon"</figcaption>
 </figure>
 
 <p style="text-align: center;">My debut novel is coming September 2025 from <a href=https://www.dundurn.com>Dundurn Press</a></p>

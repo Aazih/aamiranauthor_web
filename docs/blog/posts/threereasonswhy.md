@@ -9,7 +9,7 @@ categories:
 
 ## There's way more than three
 
-The deathly silence that surrounds the ongoing genocide of the Palestinian people has been to a significant degree dented since the 7th of October 2023, but, here in January 2025, more than fifteen months in, it has proven to be still, quite, resilient.
+The deathly silence that surrounds the ongoing genocide of the Palestinian people has been to a significant degree dented since the 7th of October 2023, but, here in January 2025, more than fifteen months in, it has proven to be still resilient.
 
 If we are fortunate enough to have a future in which honest histories get to be written, there will be volumes written about all of the reasons that the people of conscience in the West were not able to voice their condemnation of the genocide happening in the name of their values and with their tax dollars, let alone organize against it.
 

@@ -15,24 +15,17 @@ Enough that I have created YouTube videos providing commentary on the rules, cre
 
 Why wait till you've made a character to start playing PF2e when with OriginPath, you can play ***as*** you're making a character. OriginPath is a supplement that turns character creation in PF2e into a whole minigame on its own that can be used as a tutorial to learn the game and a guide to the character sheet for new players, and as a tool to enrich character backstories for GMs and Players of all skill levels!
 
-This nearly 80 page supplement not only contains all the easy to follow rules of OriginPath but also mini gameplay segments for almost every first level character option from the Pathfinder 2nd Edition Player Core Rule book to play with the new powers of your characters right as you choose them. It can be used as a solo experience or by a GM looking to enhance character creation for their players right at session zero.
-
-All author proceeds will go to Palestine relief charities.
-
 Store Links:
 
 [Origin Path at Itch.io](https://eldritch-osiris-games.itch.io/origin-path)
 
 [Origin Path at DriveThruRpg](https://www.drivethrurpg.com/en/product/505890/origin-path?affiliate_id=1799788)
 
+All author proceeds will go to Palestine relief charities.
+
 <figure markdown="span">
   ![OriginPath teaser image](../images/OriginPath_cover.png){ width="300" }
   <figcaption>Origin Path Cover</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![OriginPath teaser image](../images/OriginPath_samplePage.png){ width="300" }
-  <figcaption>Teaser for Rogue Class</figcaption>
 </figure>
 
 More information at the [Main Origin Path page](pf2eoriginpath.md)

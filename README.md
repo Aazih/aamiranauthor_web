@@ -70,9 +70,10 @@ While this is a personal reference, perhaps the step by step approach might be o
 | ASUS laptop | Hardware |
 | Windows 11 | OS |
 
-## TODO
+## Credits
 
-Soon: Create Book theme as 'dark theme' including [This Css sample](https://codepen.io/Ibrahim-Abdulhameed/pen/oNJMEGV) starry night effect. Don't think I need a moon or crescent moon side effect since the book cover is enough of that.
- Take darkest blue and full moon from colour for the two main theme colours
+Starry effect from: [Ibrahim AbdulHameed](https://codepen.io/Ibrahim-Abdulhameed/pen/oNJMEGV) and [sarazond](https://codepen.io/sarazond/pen/LYGbwj)
+
+## TODO
 
 Future plan: Local linktree

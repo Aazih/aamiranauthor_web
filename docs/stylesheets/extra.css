@@ -7,15 +7,41 @@
     --md-accent-bg-color:                hsla(0, 100%, 100%, 1);
   }
 
+  [data-md-color-scheme="underthefullandcrescentmooncolour"] {
+    --md-primary-fg-color:        hsla(255, 36%, 9%,1);
+    --md-default-bg-color:        hsla(229, 40%, 23%,1);
+
+    --md-accent-fg-color:                hsla(49, 97%, 66%,1);
+    --md-accent-fg-color--transparent:   hsla(49, 97%, 66%,0.2);
+    --md-accent-bg-color:                hsla(0, 100%, 100%, 1);
+
+    --md-typeset-color:                  hsla(260, 11%, 72%,1);
+    --md-default-fg-color--light:        hsla(260, 11%, 72%, 1);
+    --md-typeset-a-color:                hsla(300, 5%, 88%,1);
+  }
+
 /* Header */
 .md-header {
   font-family: "Playfair";
 }
+
+[data-md-color-scheme="underthefullandcrescentmooncolour"] .md-header {
+  background: linear-gradient(hsla(255, 36%, 9%,1), hsla(236, 35%, 16%,1));
+}
+
 .pal-banner{
-  background-image: url("../images/scarf-7156048_1280-rotated-transparent-cropped.svg");
+  background-image: 
+    url("../images/scarf-7156048_1280-rotated-transparent-cropped.svg");
   background-size: contain;
   width: 100%;
   height: 10vh;
+}
+
+
+[data-md-color-scheme="underthefullandcrescentmooncolour"] .pal-banner{
+  background-image: 
+    url("../images/scarf-7156048_1280-rotated-transparent-cropped.svg");
+    filter: invert(0.625);
 }
 
 .md-header__button.md-logo {
@@ -43,6 +69,22 @@
   justify-content: center;
 }
 
+
+[data-md-color-scheme="underthefullandcrescentmooncolour"] .md-tabs__list {
+  justify-content: center;
+  background: linear-gradient(hsla(236, 35%, 16%,1),hsla(229, 40%, 23%,1));
+}
+
+[data-md-color-scheme="underthefullandcrescentmooncolour"] .md-tabs {
+  background: linear-gradient(hsla(236, 35%, 16%,1),hsla(229, 40%, 23%,1));
+}
+
+[data-md-color-scheme="underthefullandcrescentmooncolour"] .md-search__input {
+  /* color: inherit; */ /* Done to override dark colour in search bar*/
+  color: hsla(300, 5%, 88%,1);
+  font-size: .8rem;
+}
+
 .md-tabs__item {
   height: 2.95rem;
   padding-left: 1.5em;
@@ -57,6 +99,10 @@
   font-family: "PlayFair";
 }
 
+.preorder {
+  text-align: center;
+  font-size: 1.5rem;
+}
 
 /* Footer */
 .landack {

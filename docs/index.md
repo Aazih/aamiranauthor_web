@@ -10,9 +10,14 @@ hide:
   }
 </style>
 
+<div class="preorder">
+Preorder now in Canada and the US! Links <a href="https://linktr.ee/aamirauthor" target="_blank">Here</a>.<br>
+Please support local bookstores if possible.
+</div>
+
 <figure markdown="span">
-  ![Coming Soon Book Cover](../images/ComingSoonLaunch.png){ width="300" }
-  <figcaption>Book Cover Reveal Soon!</figcaption>
+  ![Book Cover of "Under the Full And Crescent Moon which shows a young woman wearing a hijab kneeling in front of a pool of water, above her is a full moon, reflected in the water is her without a hijab and a crescent moon ](../images/utfacm_cover.jpg){ width="300" }
+  <figcaption>Cover of "Under The Full And Crescent Moon"</figcaption>
 </figure>
 
 <p style="text-align: center;">My debut novel is coming September 2025 from <a href=https://www.dundurn.com>Dundurn Press</a></p>

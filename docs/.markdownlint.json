@@ -10,6 +10,8 @@
     "MD033": {
       "allowed_elements": [
         "p",
+        "a",
+        "br",
         "div",
         "style",
         "figure",

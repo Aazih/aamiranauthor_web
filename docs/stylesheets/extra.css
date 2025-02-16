@@ -99,6 +99,10 @@
   font-family: "PlayFair";
 }
 
+.preorder {
+  text-align: center;
+  font-size: 1.5rem;
+}
 
 /* Footer */
 .landack {

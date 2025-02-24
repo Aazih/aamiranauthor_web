@@ -61,6 +61,7 @@ plugins:
         - Advocacy
         - TTRPG
         - Review
+        - Life
 
 markdown_extensions:
   - footnotes

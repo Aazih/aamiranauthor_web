@@ -61,6 +61,8 @@ plugins:
         - Advocacy
         - TTRPG
         - Review
+        - Life
+        - Proportional Representation
 
 markdown_extensions:
   - footnotes

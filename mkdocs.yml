@@ -7,6 +7,7 @@ nav:
   - 'index.md'
   - 'book.md'
   - 'about.md'
+  - 'happenings.md'
   - Blog:
     - blog/index.md
   - 'advocacy.md'

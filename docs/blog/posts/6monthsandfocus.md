@@ -27,7 +27,7 @@ The three videos about [Why we ignore Palestine](https://www.tiktok.com/@aamiran
 
 ## What's next?
 
-Still I do need to focus.  I'm going to give myself grace in this month of focusing on non worldly matters though and Inshallah next month I'll start to focus on book marketing as much as I can. I do want to make farewell videos about Justin Trudeau though, since I've gone through the trouble of writing text about him and I might as well give him sendoffs in video format as we go into another federal election season here in Canada.
+Still I do need to focus.  I'm going to give myself grace in this month of focusing on non worldly matters though and Inshallah next month I'll start to focus on book marketing as much as I can. I do want to make farewell videos about Justin Trudeau though, since I've gone through the trouble of writing text about him and I might as well give him a send off in video format as we go into another federal election season here in Canada.
 
 In that light I do have to mention that I am working with a publicist! Hollay Ghadery of [River Street Writing](https://www.riverstreetwriting.com/) is an amazing poet, author, and all around creator, who came highly recommended and I've been incredibly happy to have her in my corner helping get the word out on my novel. It's an investment in getting more readers and we'll see how it goes!
 

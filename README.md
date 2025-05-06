@@ -51,7 +51,7 @@ While this is a personal reference, perhaps the step by step approach might be o
 
 ## Upload
 
-1. WinSCP login to ftp site
+1. Cyberduck login to ftp site
 2. Have root directory as local directory and site root as remote directory
 3. Upload entire site (Cannot use sync options as it uses too many connections and times out the webserver)
 
@@ -66,7 +66,7 @@ While this is a personal reference, perhaps the step by step approach might be o
 | Material for Mkdocs | Extensive theme for Mkdocs |
 | markdownlint VS Code extension | Linter for Markdown |
 | Spell Right VS Code extension | Spellchecker |
-| WinSCP | FTP client |
+| Cyberduck | FTP client |
 | ASUS laptop | Hardware |
 | Windows 11 | OS |
 

@@ -3,11 +3,12 @@ Title: Advocacy
 description: The social justice work important to me
 hide: 
   - navigation
-  - toc
 ---
 I have been involved in campaigning for positive change for a long while now. The common thread in the causes I'm passionate about is the belief that sharing is better than hoarding and pluralism is better than supremacy. Unfortunately going against entrenched interests that benefit from hoarding and division is very very hard. I know firsthand there are a lot of setbacks on the road to a better world.
 
 What keeps me going is the knowledge that my position of relative privilege means the only damage I've suffered is emotional. I do not have the right to lose hope while so many other suffer. It is necessary to rest and recharge from time to time, but giving up is not an option.
+
+## Crises on my mind
 
 Below is a list of just of the few crises that are staining our collective humanity. I wish I could list them all, but more than that I wish we could unite as one human race as that is all it would take to solve them. The only conclusion I have on why this does not happen is that those in power believe the status-quo better benefits their interests.
 
@@ -28,3 +29,7 @@ I dedicated about a decade of much of my free time to campaigning for Proportion
 While I'm no longer a part of Fair Vote Canada, it remains an excellent resource on the topic. My own website on the topic [WastedVotes.ca](https://www.wastedvotes.ca) is sadly no longer operational due to the march of time and technology.
 
 It remains a cause dear to my heart.
+
+### A proportional system for Canada. CLMP
+
+So much so that I designed a proportional system for Canada that I call the CLMP system. This system consolidates everything that I have learned about the concerns that Canadians have about proportional systems over a decade of advocating for it. It stands for the Canadian, Local-List Free, Mixed Member Proportional system and the details of how the system works can be found [here.](clmp.md)

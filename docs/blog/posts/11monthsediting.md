@@ -6,6 +6,7 @@ categories:
   - Writing
   - Book
   - TTRPG
+  - Palestine
 ---
 
 # Editing and Miscellaneous other things

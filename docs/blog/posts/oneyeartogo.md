@@ -5,6 +5,7 @@ categories:
   - Advocacy
   - Writing
   - Book
+  - Palestine
 ---
 
 # The 23rd of September... 2025! Inshallah!

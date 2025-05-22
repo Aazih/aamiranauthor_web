@@ -4,6 +4,7 @@ description: Blog - Review of If I Must Die - Harrowing, Beautiful, Necessary
 categories:
   - Book
   - Review
+  - Palestine
 ---
 # Review of If I Must Die
 

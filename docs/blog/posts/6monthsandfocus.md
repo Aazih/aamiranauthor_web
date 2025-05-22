@@ -5,6 +5,7 @@ categories:
   - Book
   - Writing
   - Life
+  - Palestine
 ---
 
 # Belated Ramadan Mubarak and early Eid Mubarak

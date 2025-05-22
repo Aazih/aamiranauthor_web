@@ -4,6 +4,7 @@ description: Final Thoughts on War of Return
 categories:
   - Book
   - Advocacy
+  - Palestine
 ---
 
 # Getting back into social media

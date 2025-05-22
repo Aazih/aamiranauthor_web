@@ -3,6 +3,7 @@ date: 2025-01-12
 description: Three reasons we don't talk about Palestine
 categories:
   - Advocacy
+  - Palestine
 ---
 
 # Three reasons we don't talk about Palestine

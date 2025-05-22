@@ -3,6 +3,7 @@ date: 2025-05-06
 description: Blog - Two quick thoughts burning my brain
 categories:
   - Advocacy
+  - Palestine
 ---
 
 # Two quick thoughts I'm making videos on

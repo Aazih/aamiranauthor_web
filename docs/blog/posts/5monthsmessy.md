@@ -6,6 +6,7 @@ categories:
   - Writing
   - Life
   - Site Update
+  - Palestine
 ---
 
 # Life Events and Lack of Focus

@@ -4,6 +4,7 @@ description: Blog - Review of War of Return - I read it so you don't have to.
 categories:
   - Book
   - Review
+  - Palestine
 ---
 # Review of War Of Return
 

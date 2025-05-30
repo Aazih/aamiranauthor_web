@@ -65,6 +65,7 @@ plugins:
         - Review
         - Life
         - Proportional Representation
+        - Islam
 
 markdown_extensions:
   - footnotes

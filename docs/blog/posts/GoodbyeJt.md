@@ -1,5 +1,5 @@
 ---
-date: 2025-03-23
+date: 2025-03-26
 description: Goodbye Justin Trudeau
 categories:
   - Advocacy
@@ -29,5 +29,5 @@ It is said that what we remember of people is how they made us feel. If that is 
 The only way the book of Justin Trudeau's legacy as Prime Minister can be viewed with any positivity is if, not only is it not opened, but it is placed on the shelf so only the front can be seen. As the back is splattered with the blood and gore of hundreds and thousands of Palestinians; Victims of his professed Zionism.
 
 [^1]: [Trudeau 2015 - CBC](https://www.cbc.ca/news/politics/canada-trudeau-liberal-government-cabinet-1.3304590)
-[^2]: [Trudeau breaks promise ](HowJtkilledPrforacycle.md)
+[^2]: [Trudeau breaks promise](HowJtkilledPrforacycle.md)
 [^3]: [Trudeau proclaims himself Zionist - NDTV](https://www.ndtv.com/world-news/i-am-a-zionist-canadas-justin-trudeaus-support-for-israel-sparks-row-7875293)

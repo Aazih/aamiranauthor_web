@@ -4,6 +4,7 @@ description: Blog - Editing and Social Cards
 categories:
   - Site Update
   - Advocacy
+  - Palestine
 ---
 
 # What do I even focus on?

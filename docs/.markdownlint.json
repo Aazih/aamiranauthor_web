@@ -15,7 +15,8 @@
         "div",
         "style",
         "figure",
-        "figcaption"
+        "figcaption",
+        "i"
       ]
     },
 

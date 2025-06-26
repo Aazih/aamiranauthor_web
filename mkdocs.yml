@@ -66,6 +66,7 @@ plugins:
         - Life
         - Proportional Representation
         - Islam
+        - Current Events
 
 markdown_extensions:
   - footnotes

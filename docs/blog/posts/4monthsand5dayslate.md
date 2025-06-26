@@ -23,7 +23,7 @@ So instead of giving an overview of how my month went as I usually do I want to 
 
 The first is of course that I've been busy and distracted with life. Work, Family, all of it is busy as, Alhamdulillah it should be. There have been challenges, but nothing that we haven't been able to overcome and I was able to spend some time doing fun things with my family, which was sorely overdue.
 
-The second is there has been a lot of more urgent matters that I've felt the need to comment on, the Canadian Federal election which ended up being a mixed bag for Palestinian matters (and I have a lot of thoughts on how to improve Canadian democracy [here](clmp_proportional.md)), the horror of the genocidal campaign against Palestine which includes not only repeated horrific attacks but an undeniable use of starvation as a weapon of war.
+The second is there has been a lot of more urgent matters that I've felt the need to comment on, the Canadian Federal election which ended up being a mixed bag for Palestinian matters (and I have a lot of thoughts on how to improve Canadian democracy [on this page](clmp_proportional.md)), the horror of the genocidal campaign against Palestine which includes not only repeated horrific attacks but an undeniable use of starvation as a weapon of war.
 
 ## Turning attention to the book
 
@@ -31,7 +31,7 @@ Finally, when I always imagined myself speaking about the book, I always wanted 
 
 And before I can do *that* I feel like I should put into words how I feel we, as a Muslim community, should, in general, deal with differences of opinion on what Islam is.
 
-I did that, in a blog post [here](InnerFaithDialogue.md) and it took longer to write than I expected. The core takeaway for me is that differences are inevitable and we need to be talk about them with mutual respect. I'm hoping it's in that spirit that the novel is received.
+I did that, in a blog post [on this page](InnerFaithDialogue.md) and it took longer to write than I expected. The core takeaway for me is that differences are inevitable and we need to be talk about them with mutual respect. I'm hoping it's in that spirit that the novel is received.
 
 ## What's next?
 

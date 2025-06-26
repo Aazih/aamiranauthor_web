@@ -11,7 +11,7 @@ hide:
 </style>
 
 <div class="preorder">
-Preorder now in Canada and the US! Links <a href="https://linktr.ee/aamirauthor" target="_blank">Here</a>.<br>
+Preorder now in Canada, the UK, and the US! Links <a href="https://linktr.ee/aamirauthor" target="_blank">Here</a>.<br>
 Please support local bookstores if possible.
 </div>
 

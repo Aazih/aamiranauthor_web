@@ -75,7 +75,7 @@ Voters would be able to fill out one or both of these ballots though they would 
 
 * First the riding/district contests will be counted and resolved as previously.
 * Parties that do not receive 5% of the vote nationwide will be removed from consideration for the regional seats. This is a pretty typical threshold but 4% or 6% work as well.
-* A calculation will determine how many regional seats the remaining parties need to be assigned to achieve proportionality, or at least get close. Calculation details are on the main page for the system [here](../../clmp.md). The calculation can be carried out at the national or provincial level.
+* A calculation will determine how many regional seats the remaining parties need to be assigned to achieve proportionality, or at least get close. Calculation details are on the main page for the system [on this page](../../clmp.md). The calculation can be carried out at the national or provincial level.
 * If the discrepancy between votes received and seats won at the riding/district level is so extreme that the number of seats required by parties to compensate is more than the number of regional seats available then the number of seats to be assigned will be prorated down to fit.
 * All that is left is to assign candidates to these regional seats
 
@@ -111,7 +111,7 @@ It incentivizes parties to run strong local candidates in as many ridings/distri
 
 It incentivizes candidates to get as many riding/district votes as possible as the only guarantee they have of getting elected is to win the riding/district contest and then failing that, to be as high on the MPRC order as possible.
 
-Details and simulation can be found [here](../../clmp.md)
+Details and simulation can be found [on this page](../../clmp.md)
 
 This almost certainly won't go anywhere, but in order to achieve progress, we have to first speak it. And that is what I am doing here.
 

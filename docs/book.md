@@ -53,3 +53,17 @@ Jazakallah for anything you can do!
 "Beautifully written, with an ear for dialogue that brings his characters vividly and convincingly to life, and a plot-line that carries the reader forward with eagerness to a satisfying conclusion." - Catherine Rubincam Retired Associate Professor Emeritus, Historical Studies <br><br>
 
 </div>
+
+<div class="preordersmall">
+Excerpts from selected Reviews.<br><br>
+
+"Overall this was a very impressive novel as the description of the written scenes were just lovely." - Courtney P. Reviewer (GoodReads)<br><br>
+
+"This story explores female empowerment with the ultimate girl power towards the end. A great read" - Linzi I. Reviewer (NetGalley)<br><br>
+
+"It was a compelling read and I learned a lot. I particularly found the different interpretations of religious text interesting." - Orion M. Reviewer (NetGalley)<br><br>
+
+"This is truly a beautiful and delightful read that all western readers should pick up!" - Jean C. Reviewer (NetGalley)<br><br>
+
+"Chicken Jockey " - Anonymous
+</div>

@@ -16,7 +16,7 @@ People who say that it's the Jewish side of Israel that is causing it to be a mu
 
 <!-- more -->
 
-## Second. A bit tent... of Evil
+## Second. A big tent... of Evil
 
 So around early May 2025, Channel 13 news in Israel has reported that, despite what they said, the Biden administration did not work tirelessly for a ceasefire and, in fact, gave Israel total impunity to carry out "killing and destroying in the name of killing and destroying".
 

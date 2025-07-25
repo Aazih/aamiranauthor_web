@@ -23,7 +23,7 @@ Starting with one of the freshest in my memory. I was blessed enough to attend t
 One thing that really took my time but I was able to do was create a card to advertise the book and get my name out there. It was a lot of work and you can see the results below. Getting an idea like this and figuring out how to get it done is something I really enjoy, I just wish I had more time to do these kinds of projects so the stress factor would go down and the enjoyment would go up!
 
 <figure markdown="span">
-  ![A card with a dark purple background showing the cover of "Under The Full And Crescent Moon" with the words above in fancy gold font 'A young woman defends her city. A city both Matriarchal and Muslim. A novel of speculative hostry. September 2025. Below is a blurb stating 'A wholesome, enchanting tale set in a medieval Muslim matriarchy... Hussain’s stellar debut invites reflection, debate and dialogue. Mashallah.” - Salma Hussain, author of The Secret Diary of Mona Hasan' ](../../images/mlf_flyer_1.png){ width="300" }
+  ![A card with a dark purple background showing the cover of "Under The Full And Crescent Moon" with the words above in fancy gold font 'A young woman defends her city. A city both Matriarchal and Muslim. A novel of speculative history. September 2025. Below is a blurb stating 'A wholesome, enchanting tale set in a medieval Muslim matriarchy... Hussain’s stellar debut invites reflection, debate and dialogue. Mashallah.” - Salma Hussain, author of The Secret Diary of Mona Hasan' ](../../images/mlf_flyer_1.png){ width="300" }
   <figcaption>Front of card advertising "Under The Full And Crescent Moon"</figcaption>
 </figure>
 
@@ -49,15 +49,15 @@ As you can see there's some incredibly kind words from a wonderful author on the
 
 ## Updated the site
 
-The card refers to the site, and so I had to update the site to have all the details of what I'm asking people to do. This always takes more time than expected especailly as I really wanted to get the site to look like the flyer with the fancy 'Lancelot' font I used for the blurbs. Because of the technology I'm using that honestly took me *days* to figure out. I wish I wasn't joking. The stars still took longer. [Direct link here](../../book.md). Please let me know what you think. I'm trying to acheive both form and functionality.
+The card refers to the site, and so I had to update the site to have all the details of what I'm asking people to do. This always takes more time than expected especially as I really wanted to get the site to look like the flyer with the fancy 'Lancelot' font I used for the blurbs. Because of the technology I'm using that honestly took me *days* to figure out. I wish I wasn't joking. The stars still took longer. [Direct link here](../../book.md). Please let me know what you think. I'm trying to achieve both form and functionality.
 
 ## Working with a publicist.
 
 The publicists I hired at [River Street Writing](https://www.riverstreetwriting.com/), continue to be awesome. I'm really hoping the fruits of their effort will start showing very soon! [Hollay](https://www.hollayghadery.ca/) has been nothing but awesome!
 
-## The World continues to sprial
+## The World continues to spiral
 
-Being busy with family, work, the novel project... these are all things that I am blessed to have. But there have been many moments that I have felt the joy drain out as atrocity after atrocity keeps on piling up. And to have my country participate in covering up the aggresor and make the victim into the victimizer is a recipe for despair.
+Being busy with family, work, the novel project... these are all things that I am blessed to have. But there have been many moments that I have felt the joy drain out as atrocity after atrocity keeps on piling up. And to have my country participate in covering up the aggressor and make the victim into the victimizer is a recipe for despair.
 
 There is a deep horror in knowing how vilified me, my family, and my people are as Muslims and how justified any violence is against us. And a further depth of terror to the realization on how long a slog it will be to fix this as it was through words that we were first demonized and it is only by words that we will force our way out of this libel. And so as we fight to protect ourselves and to silence the ugly drumbeat of war, millions more of us will die, or be injured, or suffer shattered families.
 

@@ -67,6 +67,8 @@ plugins:
         - Proportional Representation
         - Islam
         - Current Events
+        - Movie
+        - Canada
 
 markdown_extensions:
   - footnotes

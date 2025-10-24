@@ -51,9 +51,9 @@ While this is a personal reference, perhaps the step by step approach might be o
 
 ## Upload
 
-1. Cyberduck login to ftp site
-2. Have root directory as local directory and site root as remote directory
-3. Upload entire site (Cannot use sync options as it uses too many connections and times out the webserver)
+1. Zip contents of Material for Mkdocs generated site directory
+2. Login to cPanel and go to file manager
+3. Upload zipped file into aamiranauthor root and extract
 
 ## Tools Used
 

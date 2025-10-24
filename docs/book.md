@@ -16,7 +16,6 @@ hide:
 A young woman defends her city.<br>
 A city both Matriarchal and Muslim.<br>
 A novel of speculative history.<br>
-September 2025.
 </div>
 
 <div class = "bookfancysmall">
@@ -35,10 +34,9 @@ I hope you are one of those.<br><br>
 
 And I hope you will help spread the word by:<br><br>
 
-<a href="https://linktr.ee/aamirauthor" target="_blank">Preordering</a><br>
-<a href="http://www.riverstreetwriting.com/join-river-street-reads" target="_blank">Requesting a Review Copy and writing a Review</a> (please note Hard copies are in very limited supply)<br>
-<a href="http://www.riverstreetwriting.com/contact" target="_blank">Contacting for Media Inquiries</a><br>
-Telling your Friends!<br><br>
+<a href="https://linktr.ee/aamirauthor" target="_blank">Buying and Reviewing!</a><br>
+Contacting for Media Inquiries on Social Media!<br>
+Telling your Friends!<br>
 Jazakallah for anything you can do!
 </div>
 
@@ -64,8 +62,6 @@ Excerpts from selected Reviews.<br><br>
 "It was a compelling read and I learned a lot. I particularly found the different interpretations of religious text interesting." - Orion M. Reviewer (NetGalley)<br><br>
 
 "This is truly a beautiful and delightful read that all western readers should pick up!" - Jean C. Reviewer (NetGalley)<br><br>
-
-"Chicken Jockey " - Anonymous
 </div>
 
 <div class = "bookfancysmall">

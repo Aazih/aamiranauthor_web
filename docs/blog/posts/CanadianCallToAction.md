@@ -20,9 +20,11 @@ Now the reason this is a big deal is that Canada has a culture of extreme defere
 
 That a MP from Mark Carney's own party would sponsor a petition that calls for an actual end to all forms of military support, cancelling the Canada Israel Free Trade Agreement and imposing Russia like sanctions, and launching investigations of Canadian collaborators with Israel is significant.
 
-Is it enough? Absolutely not. But it is light years ahead of where Canada has been, and that is testament to the pressure that Canadians have been putting on the Liberal Party.
+Is this enough? Absolutely not. But it is light years ahead of where Canada has been, and that is testament to the pressure that Canadians have been putting on the Liberal Party.
 
-So sign the petition but don't stop there. Keep calling your representatives, and keep protesting. It is working. For example the absolute disgrace that Canada allowed the Israeli tennis team to sports-wash Israel's genocide of Palestinians and play in Canada was alleviated by Canadian outrage forcing the team to play in an empty stadium. Where our government is failing to turn Israel into a pariah, Canadian citizens are stepping up. Let's keep going.
+Another sign of this is an open letter written by Liberal MP Nathaniel Urskine-Smith on his pretty popular substack in mid August. Just google "Uncommons letter to Anand" and you should get to it.[^4]
+
+So sign the petition but don't stop there. Donate if you can. Call Zahid and Nathaniel Erskine-Smith to thank them and keep building pressure within the Liberal Party. Keep calling your representatives, and keep protesting, and donating as you can. It is working. For example the absolute disgrace that Canada allowed the Israeli tennis team to sports-wash Israel's genocide of Palestinians and play in Canada was alleviated by Canadian outrage forcing the team to play in an empty stadium.[^5] Where our government is failing to turn Israel into a pariah, Canadian citizens are stepping up. Let's keep going. And Call Adam Van Koverden, the Minister of Sport and tell him off for not blocking the match.
 
 Sources on  my blog. All opinions my own, in the end only God knows best.
 
@@ -31,3 +33,7 @@ Sources on  my blog. All opinions my own, in the end only God knows best.
 [^2]: [Canada's Prime Ministers more like Monarchs - The Walrus](https://thewalrus.ca/canadas-prime-ministers-more-like-monarchs-than-you-think/)
 
 [^3]: [Israel losing Canadian Hearts and Minds - City News](https://toronto.citynews.ca/2025/08/07/israel-losing-canadian-hearts-and-minds-as-poll-shows-growing-outrage-over-gaza/)
+
+[^4]: [Urskine-Smith's letter to Anand - Uncommons](https://www.uncommons.ca/p/my-letter-to-minister-anand-re-israels)
+
+[^5]: [Davis Cup Empty Stadium - Global News](https://globalnews.ca/news/11422295/davis-cup-canada-wins-protests-halifax/)

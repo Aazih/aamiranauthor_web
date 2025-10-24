@@ -10,7 +10,7 @@ Aamir Hussain (He/Him) is many things, North American from Canada, South Asian f
 
 He also enjoys thinking and rambling about religion, politics, technology, and ttrpgs. All of which are very tedious topics for his family and friends. So this website might end up being an outlet so I can bother you, dear reader, with the ramblings instead.
 
-Most importantly it's a place to track his journey in becoming a published author. His debut novel, "Under the Full and Crescent Moon" is scheduled to come out in September 2025.
+Most importantly it's a place to store his writings. His debut novel, "Under the Full and Crescent Moon" launched in Canada in September 2025 and soon after worldwide.
 
 He would find it flattering if you called him 'woke'.
 

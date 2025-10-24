@@ -11,7 +11,8 @@ hide:
 </style>
 
 <div class="preorder">
-Preorder now in Canada, the UK, and the US! Links <a href="https://linktr.ee/aamirauthor" target="_blank">Here</a>.<br>
+Available digitally worldwide as well as Paperback in Canada and the US.<br>
+Preorder in the UK. Links <a href="https://linktr.ee/aamirauthor" target="_blank">Here</a>.<br>
 Please support local bookstores if possible.
 </div>
 
@@ -20,8 +21,8 @@ Please support local bookstores if possible.
   <figcaption>Cover of "Under The Full And Crescent Moon"</figcaption>
 </figure>
 
-<p style="text-align: center;">My debut novel is coming September 2025 from <a href=https://www.dundurn.com>Dundurn Press</a></p>
-<p style="text-align: center;">It's the story of a young woman coming of age while defending her city from zealots.</p>
+<p style="text-align: center;">From <a href=https://www.dundurn.com>Dundurn Press</a></p>
+<p style="text-align: center;">The story of a young woman coming of age while defending her city from zealots.</p>
 <p style="text-align: center;">A city of the Islamic Golden Age that is Muslim... and a matriarchy.</p>
 <p style="text-align: center;">And the weapons she wields are the Sharia and her fatwas.</p>
 

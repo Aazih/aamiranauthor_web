@@ -17,7 +17,7 @@ Please support local bookstores if possible.
 </div>
 
 <figure markdown="span">
-  ![Book Cover of "Under the Full And Crescent Moon which shows a young woman wearing a hijab kneeling in front of a pool of water, above her is a full moon, reflected in the water is her without a hijab and a crescent moon ](../images/utfacm_cover.jpg){ width="300" }
+  ![Book Cover of "Under the Full And Crescent Moon which shows a young woman wearing a hijab kneeling in front of a pool of water, above her is a full moon, reflected in the water is her without a hijab and a crescent moon ](images/utfacm_cover.jpg){ width="300" }
   <figcaption>Cover of "Under The Full And Crescent Moon"</figcaption>
 </figure>
 

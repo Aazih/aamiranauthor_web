@@ -23,7 +23,7 @@ A novel of speculative history.<br>
 </div>
 
 <figure markdown="span">
-  ![Book Cover of "Under the Full And Crescent Moon which shows a young woman wearing a hijab kneeling in front of a pool of water, above her is a full moon, reflected in the water is her without a hijab and a crescent moon ](../images/utfacm_cover.jpg){ width="300" }
+  ![Book Cover of "Under the Full And Crescent Moon which shows a young woman wearing a hijab kneeling in front of a pool of water, above her is a full moon, reflected in the water is her without a hijab and a crescent moon ](images/utfacm_cover.jpg){ width="300" }
   <figcaption>Cover of "Under The Full And Crescent Moon"</figcaption>
 </figure>
 
@@ -52,9 +52,20 @@ Jazakallah for anything you can do!
 
 </div>
 
-<div class="preordersmall">
-Excerpts from selected Reviews.<br><br>
+<div class="preorder">
+<br>Featured Reviews<br>
+</div>
 
+<div class="preordersmall">
+<a href="https://tintjournal.com/review/faith-power-and-womens-voices-a-review-of-under-the-full-and-crescent-moon-by-aamir-hussain" target="_blank">Faith and Power and Women's Voices - Tint Journal</a><br>
+<a href="https://www.fillingstation.ca/post/scribing-resistance-in-a-muslim-matriarchy-a-review-of-aamir-hussain-s-under-the-full-and-crescent" target="_blank">Scribing Resistance in a Muslim Matriarchy - Filing Station</a><br><br>
+</div>
+
+<div class="preorder">
+Excerpts from selected Reviews.<br>
+</div>
+
+<div class="preordersmall">
 "Overall this was a very impressive novel as the description of the written scenes were just lovely." - Courtney P. Reviewer (GoodReads)<br><br>
 
 "This story explores female empowerment with the ultimate girl power towards the end. A great read" - Linzi I. Reviewer (NetGalley)<br><br>

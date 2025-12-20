@@ -66,7 +66,6 @@ While this is a personal reference, perhaps the step by step approach might be o
 | Material for Mkdocs | Extensive theme for Mkdocs |
 | markdownlint VS Code extension | Linter for Markdown |
 | Spell Right VS Code extension | Spellchecker |
-| Cyberduck | FTP client |
 | ASUS laptop | Hardware |
 | Windows 11 | OS |
 

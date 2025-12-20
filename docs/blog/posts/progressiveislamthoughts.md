@@ -19,6 +19,10 @@ Which doesn't mean that we shouldn't be able to debate and discuss these things 
 
 My novel coming out soon, "Under the Full and Crescent Moon" actually deals head on with a lot of points of difference between progressive and conservative Muslims such as hijab, interfaith marriage, and more as it is set in an imagined Muslim Matriarchal society. I hope it's a respectful addition to the debate. It's gotten some very kind early reviews and I really appreciate the reviewers who enjoyed the characters as I worked really hard on them. I hope you'll check it out, but more than that, act for Palestine every day until Palestine is free!
 
+## Cuomo and who's a real Muslim?
+
+TBC
+
 ## Islam and Feminism
 
 TBC

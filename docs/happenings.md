@@ -21,6 +21,10 @@ I've been lucky enough to get some interest in my stories, both written and expe
 
 2025-09-29 [CHCH Hamilton Morning Live - YouTube](https://www.youtube.com/watch?v=RW8pBvvd9z4) | [CHCH Hamilton Morning Live - chch.com](https://www.chch.com/morning-live/milton-author-releases-debut-novel-set-in-the-islamic-golden-age/) - My first News spot ever. The wonderful Annette Hamm asked some great questions and really packed a lot into only five minutes or so!
 
+2025-10-23 [Dundrun Blog - Challenges in Writing my Debut Novel](https://www.dundurn.com/blog_/t43181/p159529-challenges-in-writing-my-debut-novel)
+
+2025-10-17 [Open Book Interview - Historical Debut](https://open-book.ca/News/Aamir-Hussain-Makes-his-Debut-with-the-Impressive-Historical-Novel-Under-The-Full-and-Crescent-Moon)
+
 2025-10-10 [Talk Radio Europe - The Book Show starting at 1:31:37](https://youtu.be/8NPo5BumtM4?si=7uJiY-RrTYzycHR-&t=5497)
 
 2025-10-02 [The Resilient Writer's Podcast - Writing Historical Speculative](https://resilientwriters.com/podcasts/writing-historical-speculative-aamir-hussain/)

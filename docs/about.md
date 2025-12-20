@@ -17,6 +17,6 @@ He would find it flattering if you called him 'woke'.
 He finds writing about himself in the third person to be very uncomfortable so he's going to stop doing that now.
 
 <figure markdown="span">
-  ![Author Picture](../images/AamirHussaintotheside.jpg){ width="300" }
+  ![Author Picture](images/AamirHussaintotheside.jpg){ width="300" }
   <figcaption>He also looks very authorly (Photo credit: Kazmiimages)</figcaption>
 </figure>

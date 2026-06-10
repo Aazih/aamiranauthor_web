@@ -33,7 +33,7 @@ Sources on my blog. All opinions my own, in the end only God knows best. Do bett
 @ZohranKMamdani
  I have told you this on the phone, in person, and I will reiterate it publicly: what you think of the phrase “globalize the intifada”—our beautiful uprising against occupation—is irrelevant, what matters is that it’s a slogan adopted by a movement that is partly responsible for your success and you mustn’t throw them under the bus. We are facing unprecedented levels of state-repression and institutional censorship, both our political organizing and speech are criminalized, and we are confronting genocide for God’s sake. That you choose to continue elevating Jewish feelings over the lives of Palestinians, over the fact of genocide, is nothing more than punching down on those who have helped elevate you, and not to mention, it is a bad electoral strategy considering you are quite literally winning and need not to bow down to Zionist pressure. The tens of thousands of volunteers who have canvassed for you in the scorching hot sun, they are not to be taken for granted. Their support isn’t unconditional. Remember that.
 
-[^3]: [](https://www.dropsitenews.com/p/leaked-israel-reputation-survey-research-mark-penn-stagwell)
+[^3]: [Leaked Israel Reputation Survey - Drop Site News](https://www.dropsitenews.com/p/leaked-israel-reputation-survey-research-mark-penn-stagwell)
 
 [^4]: X post - Refaat in Gaza - @itranslate123 - 3:00 AM - Oct 10, 2023
 @mehdirhasan

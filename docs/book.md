@@ -57,6 +57,7 @@ Jazakallah for anything you can do!
 </div>
 
 <div class="preordersmall">
+<a href="https://miramichireader.ca/2026/01/under-the-full-and-crescent-moon-by-aamir-hussain/" taget ="_blank">Under the Full and Crescent Moon by Aamir Hussain - The Miramichi Reader</a><br>
 <a href="https://tintjournal.com/review/faith-power-and-womens-voices-a-review-of-under-the-full-and-crescent-moon-by-aamir-hussain" target="_blank">Faith and Power and Women's Voices - Tint Journal</a><br>
 <a href="https://www.fillingstation.ca/post/scribing-resistance-in-a-muslim-matriarchy-a-review-of-aamir-hussain-s-under-the-full-and-crescent" target="_blank">Scribing Resistance in a Muslim Matriarchy - Filing Station</a><br><br>
 </div>

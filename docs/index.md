@@ -11,8 +11,7 @@ hide:
 </style>
 
 <div class="preorder">
-Available digitally worldwide as well as Paperback in Canada and the US.<br>
-Preorder in the UK. Links <a href="https://linktr.ee/aamirauthor" target="_blank">Here</a>.<br>
+Available everywhere books are sold! Links <a href="https://linktr.ee/aamirauthor" target="_blank">Here</a>.<br>
 Please support local bookstores if possible.
 </div>
 

@@ -9,7 +9,13 @@ I've been lucky enough to get some interest in my stories, both written and expe
 
 ## Events
 
+### Upcoming
+
+2026-06-09 - [Hamilton Book Launch - The City and The City Books](https://www.thecityandthecitybooks.ca)
+
 ### Past
+
+2026-03-19 - [Toronto Book Launch - Another Story Bookshop](https://anotherstory.ca/home)
 
 2025-10-10 - [Garden of Literary Delights - Montreal Virtual attendance](https://www.instagram.com/p/DPpXX-9ET3d/)
 
@@ -17,11 +23,11 @@ I've been lucky enough to get some interest in my stories, both written and expe
 
 ## Interviews and Podcasts
 
-**Upcoming** - NBN & Howl Interview
+2025-10-25 [New Books Network Podcast - About "Under The Full and Crescent Moon"](https://newbooksnetwork.com/under-the-full-and-crescent-moon)
 
 2025-09-29 [CHCH Hamilton Morning Live - YouTube](https://www.youtube.com/watch?v=RW8pBvvd9z4) | [CHCH Hamilton Morning Live - chch.com](https://www.chch.com/morning-live/milton-author-releases-debut-novel-set-in-the-islamic-golden-age/) - My first News spot ever. The wonderful Annette Hamm asked some great questions and really packed a lot into only five minutes or so!
 
-2025-10-23 [Dundrun Blog - Challenges in Writing my Debut Novel](https://www.dundurn.com/blog_/t43181/p159529-challenges-in-writing-my-debut-novel)
+2025-10-23 [Dundurn Blog - Challenges in Writing my Debut Novel](https://www.dundurn.com/blog_/t43181/p159529-challenges-in-writing-my-debut-novel)
 
 2025-10-17 [Open Book Interview - Historical Debut](https://open-book.ca/News/Aamir-Hussain-Makes-his-Debut-with-the-Impressive-Historical-Novel-Under-The-Full-and-Crescent-Moon)
 

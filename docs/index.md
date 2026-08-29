@@ -12,7 +12,8 @@ hide:
 
 <div class="preorder">
 Available everywhere books are sold! Links <a href="https://linktr.ee/aamirauthor" target="_blank">Here</a>.<br>
-Please support local bookstores if possible.
+Please support local bookstores if possible.<br>
+Please support the ElHayek family in Gaza! <a href="https://www.connectinggaza.org/elhayek-support" target = "_blank">Here</a>.
 </div>
 
 <figure markdown="span">

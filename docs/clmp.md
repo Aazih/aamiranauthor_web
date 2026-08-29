@@ -34,11 +34,11 @@ The fact is that proportional systems are the only ones that can fulfill both of
 
 Canadian political culture, for some very good reasons, places a large emphasis on democratic representation that is tied to a geographic locality. For similar reasons there is also a suspicion of politicians who do not represent a region.
 
-Because of this a very common mechanism of achieving proportionality, choosing representatives from a list prepared by a party, seems to be a non starter. Thankfully there are ways to design a proportional system that does not sacrifice regionality or require a list. CLMP is one of these
+Because of this a very common mechanism of achieving proportionality, choosing representatives from a list prepared by a party, seems to be a non starter. Thankfully there are ways to design a proportional system that does not sacrifice regionality or require a list. CLMP is one of these.
 
-### Two Votes, one for candidate and one for party
+### One Vote just like now
 
-The idea of being able to vote for a local candidate without also supporting their political party and vice-versa is a popular one. It also manages to increase voter choice and flexibility significantly with only a minimal level of added complexity.
+The ballot remains completly unchanged and the vote for the local candidate counts also as a vote for the party they may represent. For discussion on why I don't advocate for two votes please see [the discussion in the appendix](#two-votes-one-for-candidate-and-one-for-party-redacted).
 
 ### Mixed Member system
 
@@ -60,9 +60,7 @@ Seats will be grouped by region, a city like Toronto for example would be a regi
 
 ### Ballot design
 
-Elections would be run at the district/riding level. Voters will get a candidate ballot and a party ballot. The candidate ballot would work the same as currently with the names of the candidates listed along with their party (with candidates with no party being listed as Independent). The party ballot would contain the name of each party *that is running in the riding*. This will incentivize parties to run as many district/riding candidates as possible otherwise they would not be able to get party votes from that riding.
-
-Voters would be able to fill out one or both of these ballots though they would be encouraged to fill out both.
+Remains as current, with a vote for a candidate counting as a vote for the party they may be representing.
 
 ### Vote counting
 
@@ -111,6 +109,24 @@ And as always. Free Palestine, Free Sudan, Free Congo, Free Kashmir. God free us
 
 ## Appendix
 
+### Modifications
+
+#### Two Votes, one for candidate and one for party Redacted
+
+One of the most compelling possibilites that MMP provides is the idea of being able to vote for a local candidate and a party separately. I originally wrote:
+
+> The idea of being able to vote for a local candidate without also supporting their political party and vice-versa is a popular one. It also manages to increase voter choice and flexibility significantly with only a minimal level of added complexity.
+
+And the Ballot design was:
+
+> Elections would be run at the district/riding level. Voters will get a candidate ballot and a party ballot. The candidate ballot would work the same as currently with the names of the candidates listed along with their party (with candidates with no party being listed as Independent). The party ballot would contain the name of each party *that is running in the riding*. This will incentivize parties to run as many district/riding candidates as possible otherwise they would not be able to get party votes from that riding. Voters would be able to fill out one or both of these ballots though they would be encouraged to fill out both.
+
+Unfortuntately this leaves a loophole open that is known as 'decoy lists', a scenario where a party can either setup another party, or adopt a minor party, and convince their supporters to vote for them on the local seat and the subordinate party on the list. This subverts the logic of MMP where the non local seats are supposed to compensate under-represented parties to achieve proporationality, and instead turns them into additional seats under their control.  To put it another way this turns Mixed Member Proportional, into a Mixed Member Majoritarian system. This is not just a theoretical problem, but actually affecting elections in places such as South Korea.[^1]
+
+In a healthy democratic culture any party attempting this sort of maneuver would be punished by the electorate for being undemocratic. Unfortunately I do not believe that Canada possesses this sort of culture in the mid 2020s. It is very easy for me to imagine the Bloc Quebecois successfully getting their partisans to vote for a 'Liste Quebec' party with their party vote, while the Conservatives would get their own to vote for a "Freedom Party" or similar.
+
+Any mechanism designed to prevent this manipulation of the two party ballot would probably be overcome by a party determined to take advantage of the party vote and be fairly artificial in any case. Unless some elegant mechanic can be used to block this, it's much easier to just have one vote that counts for both the local candidate, and the party they represent.
+
 ### Calculations
 
 #### How many regional seats does each party get?
@@ -131,8 +147,11 @@ The calculation is carried out like so:
     * This is the number of regional seats the party is assigned
     * Should the total number of regional seats needed exceed the number of regional seats available as can happen with extreme levels of distortion at the riding/district level, the number of seats a party is assigned is to be prorated as needed.
     * For example if 150 seats are needed with party A receiving 100 and party B receiving 50, but only 100 regional seats are available, then party A would receive 67 seats and party B would receive 33.
+    * For a more democratic alternative, the size of the represenative body could grow as needed. However this is not something that I believe Canadian culture would be open to as of the mid 2020s.
 
 ### Simulation
 
 * [Federal 2021 simulation including candidate assignment](clmp_2021.md)
 * [Federal 2025 (Preliminary) including provincial level vote calculation](clmp_2025.md)
+
+[^1]: [Decoy Lists - Wikipedia](https://en.wikipedia.org/wiki/Decoy_list)

@@ -11,9 +11,11 @@ I've been lucky enough to get some interest in my stories, both written and expe
 
 ### Upcoming
 
-2026-06-09 - [Hamilton Book Launch - The City and The City Books](https://www.thecityandthecitybooks.ca)
-
 ### Past
+
+2026-08-09 - Milton Book Launch
+
+2026-06-09 - [Hamilton Book Launch - The City and The City Books](https://www.thecityandthecitybooks.ca)
 
 2026-03-19 - [Toronto Book Launch - Another Story Bookshop](https://anotherstory.ca/home)
 
